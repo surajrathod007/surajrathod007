@@ -9,6 +9,31 @@
 
 - In college i learned Asp.Net,C# windows programming,Python,Php,Java.
 
+Some of my projects !
+
+<ul>
+  <li>
+<a href="https://drive.google.com/drive/folders/1mJ2yz2J9N0ufPzFubc1Pt0_b81lSdKKI?usp=share_link">Full stack e commerce application with user and admin app (Backend - Ktor & PostgreSql).</a>
+  </li>
+<li>
+<a href="https://play.google.com/store/apps/details?id=com.surajrathod.bcaprogram">BCA Practicals - An App for BCA Students to get study materials & programs (Live on Play Store).</a>
+  </li>
+  
+  <li>
+<a href="https://github.com/surajrathod007/Coding-Contests">Coding Contest - Uses kontest api and user can set reminder for multiple upcoming contests.</a>
+  </li>
+  
+  <li>
+<a href="https://github.com/surajrathod007/Fudiz">Fudiz - A food recipe app.</a>
+  </li>
+  
+  <li>
+<a href="https://github.com/surajrathod007/mann-sign-server">Backend server made using ktor & postgreSql for final year project.</a>
+  </li>
+</ul>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/surajrathod007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajrathod007" height="30" width="40" /></a>
